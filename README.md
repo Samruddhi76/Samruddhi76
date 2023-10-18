@@ -73,10 +73,7 @@
 </div><br/>
 
 <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="Samruddhi-Bendugade" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="Samruddhi-Bendugade" /></td>
-  </tr>
+  
 </table>
 
 <div align="center">
