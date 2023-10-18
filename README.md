@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Samruddhi76/Samruddhi76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 <h1 align="center">👋 Hi, I'm <a href="[https://www.linkedin.com/in/samruddhi-bendugade-117047238/" target="_blank"> Samruddhi Bendugade </a></h1>
