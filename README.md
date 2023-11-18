@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Development, Java, Flutter, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : 
+- 👨‍💻 Check out my personal portfolio : https://samruddhi-bendugade.netlify.app/
 
 - 😄 Pronouns: She/Her
 
@@ -77,5 +77,5 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="Samruddhi Bendugade" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark" alt="Samruddhi Bendugade" /></p>
   </div>
